@@ -2,7 +2,7 @@
     "image": "imagenFuente",
     "width": 8,
     "height": 10,
-    "chars": "ABCDEFGHIJKLMNOPQRSTUVWXYZ    012345689.,:?!()+- ",
+    "chars": "ABCDEFGHIJKLMNOPQRSTUVWXYZ    0123456789.,:?!()+- ", 
     "offset": {
         "x": 0,
         "y": 0
